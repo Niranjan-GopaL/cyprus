@@ -29,4 +29,8 @@
 4.  created a .env and copied contents of his .env.example
 
 5. create a supabase account; <-- what you have to do now
+6. created a new project in supabase; and populated the .env file with values for 
+    - `NEXT_PUBLIC_SUPABASE_URL`
+    -  `NEXT_PUBLIC_SUPABASE_ANON_KEY` , etc
+7. made a drizzle.config.ts file
 
